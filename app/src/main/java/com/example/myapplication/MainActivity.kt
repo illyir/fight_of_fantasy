@@ -22,4 +22,5 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent3)
         }
     }
+    var a = 0
 }
